@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ihamsters.github.io</id>
-    <title>Vergissmeinnicht</title>
-    <updated>2021-05-15T15:32:07.486Z</updated>
+    <title>Petrichor</title>
+    <updated>2021-05-15T15:32:45.331Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ihamsters.github.io"/>
     <link rel="self" href="https://ihamsters.github.io/atom.xml"/>
     <subtitle>温故而知新</subtitle>
     <logo>https://ihamsters.github.io/images/avatar.png</logo>
     <icon>https://ihamsters.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2021, Vergissmeinnicht</rights>
+    <rights>All rights reserved 2021, Petrichor</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://ihamsters.github.io/post/hello-gridea/</id>
